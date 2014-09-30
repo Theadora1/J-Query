@@ -1,0 +1,68 @@
+
+h1 {
+	font-family: helvetica, sans-serif;
+	color: #4c4c4c;
+	font-size: 40px;
+	font-family: Helvetica, sans-serif;
+	position: fixed;
+	top: 0;
+	left: 0;
+	margin-top: 20px;
+	margin-left: 16px;
+}
+
+.box {
+	width: 50px;
+	height: 100px;
+	background-color: red;
+}
+
+.circle {
+	background-color: blue;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	border: 2px solid black;
+}
+
+.top-bar {
+	width: 1250px;
+	height: 70px;
+	border: 2px #e0ded8;
+	background-color: #e3c5d2;
+	/* not sure why border will not show up*/
+}
+
+.nav li {
+	display: inline;
+	color: #4c4c4c;
+	font-size: 25px;
+	font-family: Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+.nav {
+	position: fixed;
+	top: 0;
+	right: 0;
+	margin-top: 10px;
+	margin-right: 30px;
+}
+
+#first-paragraph {
+	font-family: helvetica, sans-serif;
+	margin: 50px;
+	margin-top: 100px;
+
+
+}
+
+a {
+	color: #4c4c4c;
+	font-size: 25px;
+	font-family: Helvetica, sans-serif;
+	text-decoration: none;	
+	margin-left: 10px;
+	margin-bottom: 10px;
+	/*not sure how to get this to bottom of page*/
+}

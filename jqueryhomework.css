@@ -1,0 +1,119 @@
+
+h1 {
+	font-family: helvetica, sans-serif;
+	color: #4c4c4c;
+	font-size: 40px;
+	font-family: Helvetica, sans-serif;
+	top: 0;
+	left: 0;
+	margin-top: -60px;
+	margin-left: 16px;
+}
+
+/*.box {
+	width: 50px;
+	height: 100px;
+	background-color: red;
+}*/
+
+/*.circle {
+	background-color: blue;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	border: 2px solid black;
+}*/
+
+.top-bar {
+	width: 1250px;
+	height: 70px;
+	border: 2px #e0ded8;
+	background-color: #e3c5d2;
+	/* not sure why border will not show up*/
+}
+
+.Nikki{
+	  width: 400px;
+	  height: 400px;
+	  border: 4px #4c4c4c;
+	  margin: 100px;
+	  margin-top: -40px;
+	  border: 4px;
+	  border-color: #4c4c4c;
+/*	  border-color: #4c4c4c;*/
+/*	  not sure why my border is not showing*/
+}
+
+.Tabatha{
+	  width: 800px;
+	  height: 800px;
+	  border: 4px #4c4c4c;
+	  margin: 1000px;
+	  margin-top: -400px;
+/*	  border: 4px;*/
+	  border-color: 4px #4c4c4c;
+}
+
+/*.Nikki img {
+	width: 400px;
+	height: 400px;
+	border: 4px #4c4c4c;
+}*/
+
+.nav li {
+	display: inline;
+	color: #4c4c4c;
+	font-size: 25px;
+	font-family: Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+.nav {
+	top: 0;
+	right: 0;
+	margin-left: 1030px;
+	margin-top: -60px;
+}
+
+#first-paragraph {
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	margin: 100px;
+	margin-top: -100px;
+	color: #4c4c4c;
+}
+
+.headline1 {
+	font-family: Helvetica;
+	color: #4c4c4c;
+	font-size: 60px;
+	margin-top: 60px;
+	margin-left: 50px;
+	font-style: bold
+}
+
+.headline2 {
+	font-family: Helvetica;
+	color: #4c4c4c;
+	font-size: 60px;
+	margin-top: 20px;
+	margin-left: 900px;
+	font-style: bold
+}
+
+a {
+	color: #4c4c4c;
+	font-size: 25px;
+	font-family: Helvetica, sans-serif;
+	text-decoration: none;	
+}
+
+.bottomlink {
+	color: #4c4c4c;
+	font-size: 25px;
+	font-family: Helvetica, sans-serif;
+	text-decoration: none;	
+	margin-left: 10px;
+	margin-bottom: 600px;
+	font-style: italic
+}
